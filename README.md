@@ -8,7 +8,6 @@ Claremont Graduate University will hold the fourth annual Southwest Experimental
 
 Venue, Accommodations, and Directions
 
-Click here for campus map. The workshop will be held in PLACE.
 Please make sure you reserve your accommodation in advance. There are few hotels which are close to campus:
 
 DoubleTree by Hilton Hotel Claremont

@@ -1,6 +1,6 @@
 # Welcome!
 
-SWEBE 2019
+SWEBE 2019 - the 4th annual Southwest Experimental and Behavioral Economics Workshop
 
 Claremont Graduate University will hold the 4th annual Southwest Experimental and Behavioral Economics Workshop (SWEBE) on Friday-Saturday, May 24-25, 2019.
 

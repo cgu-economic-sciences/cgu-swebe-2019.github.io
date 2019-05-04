@@ -29,6 +29,7 @@ Time | Title | Presenter
 15:20pm-15:30pm | Coffee Break 
 15:35pm-17:20pm | Expectations and Stock Market Participation: <br>Theory and Evidence | Michael Shin (UCI)
 15:35pm-17:20pm | The Effects of Time Preferences on Cooperation:<br>Experimental Evidence from Infinitely Repeated <br>Games | Jeongbin Kim (Caltech)
+15:35pm-17:20pm | The Network Dilemma | Anujit Chakraborty <br>(University of California, Davis)
 2:10pm | [Parallel Sesions C](SessionC.md)
 3:10pm | Coffee Break
 3:30pm | [Parallel Sesions D](SessionD.md)

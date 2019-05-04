@@ -25,7 +25,7 @@ Time | Title | Presenter
 12:20pm-13:30pm | Lunch
 13:35pm-15:20pm | On the Persistence of Level - K Model | Wanqun Zhao (UCSD)
 13:35pm-15:20pm | Using visual salience in empirical game theory | Xiaomin Li (Caltech)
-13:35pm-15:20pm | Using Response Times to Measure Ability <br>on a Cognitive Task | Aleksandr Alekseev
+13:35pm-15:20pm | Using Response Times to Measure Ability <br>on a Cognitive Task | Aleksandr Alekseev <br>(Chapman University)
 2:10pm | [Parallel Sesions C](SessionC.md)
 3:10pm | Coffee Break
 3:30pm | [Parallel Sesions D](SessionD.md)

@@ -38,7 +38,7 @@ Time | Title | Presenter
 Time | Title | Presenter
 -----|------|------
 8:30am-9:00am | Breakfast
-9:05am-10:50am | Suboptimal Credit Card Repayments: A Laboratory Experiment | Hakan Ozyilmaz (UCSB)
+9:05am-10:50am | Suboptimal Credit Card Repayments: <br>A Laboratory Experiment | Hakan Ozyilmaz (UCSB)
 9:05am-10:50am | Sour Grapes in the Lab and Field: <br>A Test of Access-Based Beliefs | Vinayak Alladi (UCSD)
 9:05am-10:50am | Mediated Talk: An Experiment | Andreas Blume (University of Arizona) 
 10:50am-11:00am | Coffee break 

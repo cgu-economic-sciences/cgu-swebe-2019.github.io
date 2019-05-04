@@ -28,6 +28,7 @@ Time | Title | Presenter
 13:35pm-15:20pm | Using Response Times to Measure Ability <br>on a Cognitive Task | Aleksandr Alekseev <br>(Chapman University)
 15:20pm-15:30pm | Coffee Break |
 15:35pm-17:20pm | Expectations and Stock Market Participation: <br>Theory and Evidence | Michael Shin (UCI)
+15:35pm-17:20pm | The Effects of Time Preferences on Cooperation:<br>Experimental Evidence from Infinitely Repeated Games |
 2:10pm | [Parallel Sesions C](SessionC.md)
 3:10pm | Coffee Break
 3:30pm | [Parallel Sesions D](SessionD.md)

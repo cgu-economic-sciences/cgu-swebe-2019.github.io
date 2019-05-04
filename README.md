@@ -20,8 +20,8 @@ Time | Title | Presenter
 8:35am-10:20am | Mediated Talk: An Experiment | Andreas Blume (University of Arizona) 
 10:20am-10:30am | Coffee break
 10:35am-12:20pm | Inequality as an Incentive | Jeffrey Butler <br> (University of California, Merced)
-10:35am-12:20pm | Guilt Moderation | Paul Cheung (University of Maryland)
-10:35am-12:20pm | Using Behavioral Economics to Curb Workplace Misbehaviors: Evidence form a Natural Field Experiment | 
+10:35am-12:20pm | Guilt Moderation | Paul Cheung <br>(University of Maryland)
+10:35am-12:20pm | Using Behavioral Economics <br>to Curb Workplace Misbehaviors: <br>Evidence form a Natural Field Experiment | Jeffrey Flory (CMC)
 12:40pm | Lunch Break
 2:10pm | [Parallel Sesions C](SessionC.md)
 3:10pm | Coffee Break

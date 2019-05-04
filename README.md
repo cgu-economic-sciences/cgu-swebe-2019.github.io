@@ -45,7 +45,7 @@ Time | Title | Presenter
 9:05am-10:50am | Mediated Talk: An Experiment | Andreas Blume (University of Arizona) 
 10:50am-11:00am | Coffee break 
 11:05am-12:20pm | The (In)Elasticity of Moral Ignorance | Marta Serra-Garcia (UCSD)
-11:05am-12:20pm | How Do People Choose Between <br>Biased Information Sources: Evidence from a Laboratory Experiment | Gary Charness (UCSB)
+11:05am-12:20pm | How Do People Choose Between <br>Biased Information Sources: <br>Evidence from a Laboratory Experiment | Gary Charness (UCSB)
 11:05am-12:20pm | Using Behavioral Economics <br>to Curb Workplace Misbehaviors: <br>Evidence form a Natural Field Experiment | Jeffrey Flory (CMC)
 
 To drive and use Uber or Lyft to campus, use this address: 150 E 10th St, Claremont, CA 91711

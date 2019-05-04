@@ -8,9 +8,11 @@ SWEBE is an annual workshop in Southern California with the mission of promoting
 
 The workshop will be held Burkle 14 in Burkle Family Building at Claremont Graduate University.
 
-## Program
+## Conference Program
 
-**Friday, May 24th** 
+*Last update:* May 4th, 2019
+
+<br>**Friday, May 24th** 
 
 Time | Title | Presenter
 -----|------|------

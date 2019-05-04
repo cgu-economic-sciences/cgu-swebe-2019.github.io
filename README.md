@@ -46,6 +46,6 @@ Time | Title | Presenter
 10:50am-11:00am | Coffee break 
 11:05am-12:20pm | The (In)Elasticity of Moral Ignorance | Marta Serra-Garcia (UCSD)
 11:05am-12:20pm | How Do People Choose Between <br>Biased Information Sources: <br>Evidence from a Laboratory Experiment | Gary Charness (UCSB)
-11:05am-12:20pm | Using Behavioral Economics <br>to Curb Workplace Misbehaviors: <br>Evidence form a Natural Field Experiment | Jeffrey Flory (CMC)
+11:05am-12:20pm | An Experimental Study of Common Knowledge <br>and Coordination on Social Networks| Gizem Korkmaz <br>(University of Virginia)
 
 To drive and use Uber or Lyft to campus, use this address: 150 E 10th St, Claremont, CA 91711

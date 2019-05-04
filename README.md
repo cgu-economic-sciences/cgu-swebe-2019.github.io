@@ -53,7 +53,6 @@ Time | Title | Presenter
 Dr. C. Monica Capra : monica.capra@cgu.edu
 <br>Dr. Joshua Tasoff : joshua.tasoff@cgu.edu
 <br>Dr. Gregory DeAngelo : gregory.deangelo@cgu.edu
-
+<br>
 #### Coordinator
-
 David (Kichang) Kim : kichang.kim@cgu.edu

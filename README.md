@@ -48,14 +48,14 @@ Time | Title | Presenter
 11:05am-12:20pm | How Do People Choose Between <br>Biased Information Sources: <br>Evidence from a Laboratory Experiment | Gary Charness (UCSB)
 11:05am-12:20pm | An Experimental Study of Common Knowledge <br>and Coordination on Social Networks| Gizem Korkmaz <br>(University of Virginia)
 <br>
+<br>
 
 ### Organizors
-<span style="line-height:20%"></span>
+
 Dr. C. Monica Capra : monica.capra@cgu.edu
 <br>Dr. Joshua Tasoff : joshua.tasoff@cgu.edu
 <br>Dr. Gregory DeAngelo : gregory.deangelo@cgu.edu
 <br>
 
-#### Coordinator
-<span style="line-height:20%"></span>
+### Coordinator
 David (Kichang) Kim : kichang.kim@cgu.edu

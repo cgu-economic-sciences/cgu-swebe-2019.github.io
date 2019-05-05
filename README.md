@@ -4,7 +4,7 @@ SWEBE 2019 - the 4th Annual Southwest Experimental and Behavioral Economics Work
 
 Claremont Graduate University will hold the 4th Annual Southwest Experimental and Behavioral Economics Workshop (SWEBE) on Friday-Saturday, May 24-25, 2019.
 
-SWEBE is an annual workshop in Southern California with the mission of promoting the disseminating cutting-edge research in behavioral economics in the south west. 
+SWEBE is an annual workshop in Southern California with the mission of promoting the disseminating cutting-edge research in behavioral economics in the Southwest. 
 
 The workshop will be held Burkle 14 in Burkle Family Building at Claremont Graduate University.
 

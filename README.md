@@ -53,7 +53,7 @@ Time   | Title | Presenter
 09:05am-10:50am | Mediated Talk: An Experiment | Andreas Blume <br>(University of Arizona) 
 10:50am-11:00am | Coffee break 
 11:05am-12:20pm | The (In)Elasticity of Moral Ignorance | Marta Serra-Garcia (UCSD)
-11:05am-12:20pm | How Do People Choose Between Biased Information Sources:<br>Evidence from a Laboratory Experiment | Gary Charness (UCSB)
+11:05am-12:20pm | How Do People Choose Between Biased Information Sources: Evidence from a Laboratory Experiment | Gary Charness (UCSB)
 11:05am-12:20pm | An Experimental Study of Common Knowledge and Coordination on Social Networks| Gizem Korkmaz <br>(University of Virginia)
 
 <br>

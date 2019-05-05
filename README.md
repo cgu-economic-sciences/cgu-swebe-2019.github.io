@@ -64,6 +64,10 @@ Please make sure you reserve your accommodation in advance. There are 2 hotels w
 <br>
 <br>
 
+## Parking
+
+Street parking is available along N College Ave, N Dartmouth Ave, 10th Street, 11th Street.
+
 ### Organizors
 
 Dr. C. Monica Capra : monica.capra@cgu.edu

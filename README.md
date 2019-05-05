@@ -31,15 +31,15 @@ Time   | Title | Presenter
 10:45am-12:45pm | Guilt Moderation | Paul Cheung (UMD)
 10:45am-12:45pm | Using Behavioral Economics<br>to Curb Workplace Misbehaviors:<br>Evidence form <br>a Natural Field Experiment | Jeffrey Flory (CMC)
 10:45am-12:45pm | Suboptimal Credit Card Repayments: A Lab Experiment | Hakan Ozyilmaz (UCSB)
-12:20pm-13:30pm | Lunch (Druker)
-1:35pm-3:20pm | On the Persistence of Level - K Model | Wanqun Zhao (UCSD)
-1:35pm-3:20pm | Using visual salience in empirical game theory | Xiaomin Li (Caltech)
-1:35pm-3:20pm | Using Response Times to Measure Ability <br>on a Cognitive Task | Aleksandr Alekseev <br>(Chapman University)
-3:20pm-3:30pm | Coffee Break 
-3:35pm-5:20pm | Expectations and Stock Market Participation:<br>Theory and Evidence | Michael Shin (UCI)
-3:35pm-5:20pm | The Effects of Time Preferences on Cooperation:<br>Experimental Evidence from Infinitely Repeated Games | Jeongbin Kim (Caltech)
-3:35pm-5:20pm | The Network Dilemma | Anujit Chakraborty <br>(UC Davis)
-6:00pm-8:00pm | Dinner (Walters)
+12:45pm-1:55pm | Lunch @ Druker
+2:00pm-3:30pm | On the Persistence of Level - K Model | Wanqun Zhao (UCSD)
+2:00pm-3:30pm | Using visual salience in empirical game theory | Xiaomin Li (Caltech)
+2:00pm-3:30pm | Using Response Times to Measure Ability <br>on a Cognitive Task | Aleksandr Alekseev <br>(Chapman University)
+3:30pm-3:40pm | Coffee Break 
+3:45pm-5:15pm | Multi-market Contacts and Collusive Behavior:<br>An Exploration in the Laboratory | Emanual Vespa (UCSB)
+3:45pm-5:15pm | The Effects of Time Preferences on Cooperation:<br>Experimental Evidence from Infinitely Repeated Games | Jeongbin Kim (Caltech)
+3:45pm-5:15pm | The Network Dilemma | Anujit Chakraborty <br>(UC Davis)
+6:00pm-8:00pm | Dinner @ <a href="https://www.google.com/maps/place/Walter's+Restaurant,+Bar+and+Lounge/@34.096894,-117.7176367,15z/data=!4m5!3m4!1s0x0:0x697611e013dd0628!8m2!3d34.096894!4d-117.7176367" target="_blank"> Walter's</a>
 
 
 <br>**Saturday, May 25th** 
@@ -49,6 +49,7 @@ Time   | Title | Presenter
 8:30am-9:00am | Breakfast
 9:05am-10:50am | Suboptimal Credit Card Repayments: A Lab Experiment | Hakan Ozyilmaz (UCSB)
 9:05am-10:50am | Agglomeration and the Extent of the Market:<br>An Experimental Investigation<br>into Spatially Coordinated Exchange | Jordan Adamson<br>(Chapman University)
+3:45pm-5:15pm | Expectations and Stock Market Participation:<br>Theory and Evidence | Michael Shin (UCI)
 9:05am-10:50am | Decision weights based on visual saliency | Devdeepta Bose<br>(Caltech)
 10:50am-11:00am | Coffee break 
 11:05am-12:20pm | The (In)Elasticity of Moral Ignorance | Marta Serra-Garcia<br>(UCSD)

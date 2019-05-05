@@ -1,8 +1,8 @@
 # Welcome!
 
-SWEBE 2019 - the 4th annual Southwest Experimental and Behavioral Economics Workshop
+SWEBE 2019 - the 4th Annual Southwest Experimental and Behavioral Economics Workshop
 
-Claremont Graduate University will hold the 4th annual Southwest Experimental and Behavioral Economics Workshop (SWEBE) on Friday-Saturday, May 24-25, 2019.
+Claremont Graduate University will hold the 4th Annual Southwest Experimental and Behavioral Economics Workshop (SWEBE) on Friday-Saturday, May 24-25, 2019.
 
 SWEBE is an annual workshop in Southern California with the mission of promoting the disseminating cutting-edge research in behavioral economics in the south west. 
 

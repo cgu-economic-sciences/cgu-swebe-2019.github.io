@@ -67,7 +67,7 @@ Please make sure you reserve your accommodation in advance. There are 2 hotels w
 
 ## Parking
 
-Street parking is available along N College Ave, N Dartmouth Ave, 10th Street, 11th Street.
+Street parking is available along N College Ave, N Dartmouth Ave, 10th Street, and 11th Street.
 Please click a link to the Google map for Claremont Graduate University. <a href="https://www.google.com/maps/place/Claremont+Graduate+University/@34.1040414,-117.7139694,15z/data=!4m5!3m4!1s0x0:0xd4790d89cfc64f12!8m2!3d34.1040414!4d-117.7139694" target="_blank"> <b>HERE</b> </a>
 
 If you decide to Uber or Lyft to campus, we suggest you use this address: 1021 N Dartmouth Ave, Claremont, CA 91711

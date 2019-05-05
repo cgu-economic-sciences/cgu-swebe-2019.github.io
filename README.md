@@ -30,7 +30,7 @@ Time   | Title | Presenter
 8:35am-10:20am | Mediated Talk: An Experiment | Andreas Blume<br>(UA) 
 10:20am-10:30am | Coffee break 
 10:35am-12:20pm | Inequality as an Incentive | Jeffrey Butler <br> (UC Merced)
-10:35am-12:20pm | Guilt Moderation | Paul Cheung <br>(UMD)
+10:35am-12:20pm | Guilt Moderation | Paul Cheung (UMD)
 10:35am-12:20pm | Using Behavioral Economics<br>to Curb Workplace Misbehaviors:<br>Evidence form <br>a Natural Field Experiment | Jeffrey Flory (CMC)
 12:20pm-13:30pm | Lunch (Druker)
 1:35pm-3:20pm | On the Persistence of Level - K Model | Wanqun Zhao (UCSD)
@@ -54,7 +54,7 @@ Time   | Title | Presenter
 10:50am-11:00am | Coffee break 
 11:05am-12:20pm | The (In)Elasticity of Moral Ignorance | Marta Serra-Garcia<br>(UCSD)
 11:05am-12:20pm | How Do People Choose Between<br>Biased Information Sources:<br>Evidence from a Lab Experiment | Gary Charness (UCSB)
-11:05am-12:20pm | An Experimental Study of Common Knowledge<br>and Coordination on Social Networks| Gizem Korkmaz <br>(UVA)
+11:05am-12:20pm | An Experimental Study of Common Knowledge<br>and Coordination on Social Networks| Gizem Korkmaz (UVA)
 
 <br>
 

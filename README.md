@@ -37,7 +37,7 @@ Time   | Title | Presenter
 1:35pm-3:20pm | Using visual salience in empirical game theory | Xiaomin Li (Caltech)
 1:35pm-3:20pm | Using Response Times to Measure Ability <br>on a Cognitive Task | Aleksandr Alekseev <br>(Chapman University)
 3:20pm-3:30pm | Coffee Break 
-3:35pm-5:20pm | Expectations and Stock Market Participation: Theory and Evidence | Michael Shin (UCI)
+3:35pm-5:20pm | Expectations and Stock Market Participation:<br>Theory and Evidence | Michael Shin (UCI)
 3:35pm-5:20pm | The Effects of Time Preferences on Cooperation:<br>Experimental Evidence from Infinitely Repeated Games | Jeongbin Kim (Caltech)
 3:35pm-5:20pm | The Network Dilemma | Anujit Chakraborty <br>(University of California, Davis)
 6:00pm-8:00pm | Dinner (Walters)

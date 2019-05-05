@@ -51,7 +51,13 @@ Time | Title | Presenter
 11:05am-12:20pm | An Experimental Study of Common Knowledge <br>and Coordination on Social Networks| Gizem Korkmaz <br>(University of Virginia)
 
 <br>
-<br>
+
+## Lodging
+
+<a href="https://www.casa425.com" target="_blank"> <b>Casa 425</b> </a> : 909-624-2272
+
+DoubleTree – Claremont
+909-626-2411
 
 ### Organizors
 

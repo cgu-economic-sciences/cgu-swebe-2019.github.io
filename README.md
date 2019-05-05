@@ -31,7 +31,7 @@ Time | Title | Presenter
 10:20am-10:30am | Coffee break 
 10:35am-12:20pm | Inequality as an Incentive | Jeffrey Butler <br> (University of California, Merced)
 10:35am-12:20pm | Guilt Moderation | Paul Cheung <br>(University of Maryland)
-10:35am-12:20pm | Using Behavioral Economics <br>to Curb Workplace Misbehaviors: <br>Evidence form a Natural Field Experiment | Jeffrey Flory (CMC)
+10:35am-12:20pm | Using Behavioral Economics <br>to Curb Workplace Misbehaviors: Evidence form a Natural Field Experiment | Jeffrey Flory (CMC)
 12:20pm-13:30pm | Lunch (Druker)
 01:35pm-03:20pm | On the Persistence of Level - K Model | Wanqun Zhao (UCSD)
 01:35pm-03:20pm | Using visual salience in empirical game theory | Xiaomin Li (Caltech)

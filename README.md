@@ -54,10 +54,15 @@ Time | Title | Presenter
 
 ## Lodging
 
+Please make sure you reserve your accommodation in advance. There are 2 hotels which are close to campus :
+
 <a href="https://www.casa425.com" target="_blank"> <b>Casa 425</b> </a> : 909-624-2272
 
-DoubleTree – Claremont
-909-626-2411
+
+<a href="https://doubletree3.hilton.com/en/hotels/california/doubletree-by-hilton-hotel-claremont-ONTCLDT/index.html?SEO_id=GMB-DT-ONTCLDT" target="_blank"> <b>DoubleTree</b> </a> : 909-626-2411
+
+<br>
+<br>
 
 ### Organizors
 

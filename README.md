@@ -38,7 +38,7 @@ Time | Title | Presenter
 01:35pm-03:20pm | Using Response Times to Measure Ability <br>on a Cognitive Task | Aleksandr Alekseev <br>(Chapman University)
 03:20pm-03:30pm | Coffee Break 
 03:35pm-05:20pm | Expectations and Stock Market Participation: <br>Theory and Evidence | Michael Shin (UCI)
-03:35pm-05:20pm | The Effects of Time Preferences on Cooperation:<br>Experimental Evidence from Infinitely Repeated <br>Games | Jeongbin Kim (Caltech)
+03:35pm-05:20pm | The Effects of Time Preferences on Cooperation:<br>Experimental Evidence from Infinitely Repeated Games | Jeongbin Kim (Caltech)
 03:35pm-05:20pm | The Network Dilemma | Anujit Chakraborty <br>(University of California, Davis)
 06:00pm-08:00pm | Dinner (Walters)
 

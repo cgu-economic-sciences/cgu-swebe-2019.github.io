@@ -27,7 +27,7 @@ Time   | Title | Presenter
 8:00am-8:30am | Welcome and Breakfast
 8:35am-10:20am | Steps of reasoning in children and adolescents | Juan D. Carrillo (USC)
 8:35am-10:20am | Sour Grapes in the Lab and Field: <br>A Test of Access-Based Beliefs | Vinayak Alladi (UCSD)
-8:35am-10:20am | Mediated Talk: An Experiment | Andreas Blume<br>(UA) 
+8:35am-10:20am | Mediated Talk: An Experiment | Andreas Blume (UA) 
 10:20am-10:30am | Coffee break 
 10:35am-12:20pm | Inequality as an Incentive | Jeffrey Butler <br> (UC Merced)
 10:35am-12:20pm | Guilt Moderation | Paul Cheung (UMD)
@@ -50,9 +50,9 @@ Time   | Title | Presenter
 8:30am-9:00am | Breakfast
 9:05am-10:50am | Suboptimal Credit Card Repayments: A Lab Experiment | Hakan Ozyilmaz (UCSB)
 9:05am-10:50am | Agglomeration and the Extent of the Market:<br>An Experimental Investigation<br>into Spatially Coordinated Exchange | Jordan Adamson<br>(Chapman University)
-9:05am-10:50am | Decision weights based on visual saliency | Devdeepta Bose (Caltech)
+9:05am-10:50am | Decision weights based on visual saliency | Devdeepta Bose<br>(Caltech)
 10:50am-11:00am | Coffee break 
-11:05am-12:20pm | The (In)Elasticity of Moral Ignorance | Marta Serra-Garcia<br>(UCSD)
+11:05am-12:20pm | The (In)Elasticity of Moral Ignorance | Marta Serra-Garcia (UCSD)
 11:05am-12:20pm | How Do People Choose Between<br>Biased Information Sources:<br>Evidence from a Lab Experiment | Gary Charness (UCSB)
 11:05am-12:20pm | An Experimental Study of Common Knowledge<br>and Coordination on Social Networks| Gizem Korkmaz (UVA)
 

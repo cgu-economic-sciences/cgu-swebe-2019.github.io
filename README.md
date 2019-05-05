@@ -12,7 +12,9 @@ Please click a link to the Google map for the Burkle Family Building.<a href="ht
 
 ## Registration
 
-To register please click. <a href="https://www.eventbrite.com/e/swebe-2019-fourth-annual-southwest-experimental-and-behavioral-economics-workshop-tickets-60918609200" target="_blank"> <b>SWEBE 2019</b> </a> 
+To register please click. <a href="https://www.eventbrite.com/e/swebe-2019-fourth-annual-southwest-experimental-and-behavioral-economics-workshop-tickets-60918609200" target="_blank"> <b>SWEBE 2019</b> </a>
+
+<br>
 
 ## Conference Program
 
@@ -72,12 +74,11 @@ If you decide to Uber or Lyft to campus, we suggest you use this address: 1021 N
 
 <br>
 
-### Organizers
-
+## Organizers
 Dr. C. Monica Capra : monica.capra@cgu.edu
 <br>Dr. Joshua Tasoff : joshua.tasoff@cgu.edu
 <br>Dr. Gregory DeAngelo : gregory.deangelo@cgu.edu
 <br>
 
-### Coordinator
+## Coordinator
 David (Kichang) Kim : kichang.kim@cgu.edu

@@ -10,8 +10,6 @@ The workshop will be held Burkle 14 in Burkle Family Building at Claremont Gradu
 
 Please click a link to the Google map for the Burkle Family Building.<a href="https://www.google.com/maps/place/Burkle+Family+Building/@34.1040087,-117.7136782,15z/data=!4m5!3m4!1s0x0:0x804fc4432dccf6f6!8m2!3d34.1040087!4d-117.7136782" target="_blank"> Here
 
-Here is a link to the Google map for the Burkle Family Building.
-
 ## Conference Program
 
 *Last update:* May 4th, 2019

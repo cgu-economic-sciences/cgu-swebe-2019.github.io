@@ -32,7 +32,7 @@ Time | Title | Presenter
 10:35am-12:20pm | Inequality as an Incentive | Jeffrey Butler <br> (University of California, Merced)
 10:35am-12:20pm | Guilt Moderation | Paul Cheung <br>(University of Maryland)
 10:35am-12:20pm | Using Behavioral Economics <br>to Curb Workplace Misbehaviors: <br>Evidence form a Natural Field Experiment | Jeffrey Flory (CMC)
-12:20pm-13:30pm | Lunch
+12:20pm-13:30pm | Lunch (Druker)
 01:35pm-03:20pm | On the Persistence of Level - K Model | Wanqun Zhao (UCSD)
 01:35pm-03:20pm | Using visual salience in empirical game theory | Xiaomin Li (Caltech)
 01:35pm-03:20pm | Using Response Times to Measure Ability <br>on a Cognitive Task | Aleksandr Alekseev <br>(Chapman University)
@@ -40,7 +40,7 @@ Time | Title | Presenter
 03:35pm-05:20pm | Expectations and Stock Market Participation: <br>Theory and Evidence | Michael Shin (UCI)
 03:35pm-05:20pm | The Effects of Time Preferences on Cooperation:<br>Experimental Evidence from Infinitely Repeated <br>Games | Jeongbin Kim (Caltech)
 03:35pm-05:20pm | The Network Dilemma | Anujit Chakraborty <br>(University of California, Davis)
-06:00pm-08:00pm | Dinner
+06:00pm-08:00pm | Dinner (Walters)
 
 
 <br>**Saturday, May 25th** 

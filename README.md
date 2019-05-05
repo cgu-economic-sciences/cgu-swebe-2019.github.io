@@ -14,8 +14,6 @@ Please click a link to the Google map for the Burkle Family Building.<a href="ht
 
 To register please click. <a href="https://www.eventbrite.com/e/swebe-2019-fourth-annual-southwest-experimental-and-behavioral-economics-workshop-tickets-60918609200" target="_blank"> <b>SWEBE 2019</b> </a>
 
-<br>
-
 ## Conference Program
 
 *Last update:* May 4th, 2019
@@ -24,14 +22,15 @@ To register please click. <a href="https://www.eventbrite.com/e/swebe-2019-fourt
 
 Time   | Title | Presenter
 -------|-------|-----------
-8:00am-8:30am | Welcome and Breakfast
-8:35am-10:20am | Steps of reasoning in children and adolescents | Juan D. Carrillo (USC)
-8:35am-10:20am | Sour Grapes in the Lab and Field: <br>A Test of Access-Based Beliefs | Vinayak Alladi (UCSD)
-8:35am-10:20am | Mediated Talk: An Experiment | Andreas Blume (UA) 
-10:20am-10:30am | Coffee break 
-10:35am-12:20pm | Inequality as an Incentive | Jeffrey Butler <br> (UC Merced)
-10:35am-12:20pm | Guilt Moderation | Paul Cheung (UMD)
-10:35am-12:20pm | Using Behavioral Economics<br>to Curb Workplace Misbehaviors:<br>Evidence form <br>a Natural Field Experiment | Jeffrey Flory (CMC)
+8:30am-9:00am | Welcome and Breakfast
+9:00am-10:30am | Steps of reasoning in children and adolescents | Juan D. Carrillo (USC)
+9:00am-10:30am | Sour Grapes in the Lab and Field: <br>A Test of Access-Based Beliefs | Vinayak Alladi (UCSD)
+9:00am-10:30am | Mediated Talk: An Experiment | Andreas Blume (UA) 
+10:30am-10:40am | Coffee break 
+10:45am-12:45pm | Inequality as an Incentive | Jeffrey Butler <br> (UC Merced)
+10:45am-12:45pm | Guilt Moderation | Paul Cheung (UMD)
+10:45am-12:45pm | Using Behavioral Economics<br>to Curb Workplace Misbehaviors:<br>Evidence form <br>a Natural Field Experiment | Jeffrey Flory (CMC)
+10:45am-12:45pm | Suboptimal Credit Card Repayments: A Lab Experiment | Hakan Ozyilmaz (UCSB)
 12:20pm-13:30pm | Lunch (Druker)
 1:35pm-3:20pm | On the Persistence of Level - K Model | Wanqun Zhao (UCSD)
 1:35pm-3:20pm | Using visual salience in empirical game theory | Xiaomin Li (Caltech)

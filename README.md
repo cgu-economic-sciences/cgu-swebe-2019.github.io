@@ -22,8 +22,8 @@ To register please click. <a href="https://www.eventbrite.com/e/swebe-2019-fourt
 
 <br>**Friday, May 24th** 
 
-Time | Title | Presenter
------|------|------
+Time   | Title | Presenter
+-------|-----|------
 08:00am-08:30am | Welcome and Breakfast
 08:35am-10:20am | Steps of reasoning in children and adolescents | Juan D. Carrillo (USC)
 08:35am-10:20am | Sour Grapes in the Lab and Field: <br>A Test of Access-Based Beliefs | Vinayak Alladi (UCSD)
@@ -45,8 +45,8 @@ Time | Title | Presenter
 
 <br>**Saturday, May 25th** 
 
-Time | Title | Presenter
------|------|-----------
+Time   | Title | Presenter
+-------|-----|-----------
 08:30am-09:00am | Breakfast
 09:05am-10:50am | Suboptimal Credit Card Repayments: <br>A Laboratory Experiment | Hakan Ozyilmaz (UCSB)
 09:05am-10:50am | Sour Grapes in the Lab and Field: <br>A Test of Access-Based Beliefs | Vinayak Alladi (UCSD)

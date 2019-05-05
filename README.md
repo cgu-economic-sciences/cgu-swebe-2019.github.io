@@ -47,7 +47,7 @@ Time   | Title | Presenter
 Time   | Title | Presenter
 -------|-------|-----------
 8:30am-8:55am | Breakfast
-9:00am-10:30am | Agglomeration and the Extent of the Market:<br>An Experimental Investigation<br>into Spatially Coordinated Exchange | Jordan Adamson<br>(Chapman University)
+9:00am-10:30am | Agglomeration and the Extent of the Market:<br>An Experimental Investigation into Spatially Coordinated Exchange | Jordan Adamson<br>(Chapman University)
 9:00am-10:30am | Expectations and Stock Market Participation:<br>Theory and Evidence | Michael Shin (UCI)
 9:00am-10:30am | Decision weights based on visual saliency | Devdeepta Bose<br>(Caltech)
 10:30am-10:40am | Coffee break 

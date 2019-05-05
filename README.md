@@ -66,6 +66,11 @@ Please click a link to the Google map for Claremont Graduate University. <a href
 
 If you decide to Uber or Lyft to campus, we suggest you use this address: 1021 N Dartmouth Ave, Claremont, CA 91711
 
+## REGISTRATION
+
+To register please click. <a href="https://www.eventbrite.com/e/swebe-2019-fourth-annual-southwest-experimental-and-behavioral-economics-workshop-tickets-60918609200" target="_blank"> <b>SWEBE 2019</b> </a> 
+
+
 ### Organizers
 
 Dr. C. Monica Capra : monica.capra@cgu.edu

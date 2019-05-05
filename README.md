@@ -38,7 +38,7 @@ Time   | Title | Presenter
 1:35pm-3:20pm | Using Response Times to Measure Ability <br>on a Cognitive Task | Aleksandr Alekseev <br>(Chapman University)
 3:20pm-3:30pm | Coffee Break 
 3:35pm-5:20pm | Expectations and Stock Market Participation: Theory and Evidence | Michael Shin (UCI)
-3:35pm-5:20pm | The Effects of Time Preferences on Cooperation: Experimental Evidence from<br>Infinitely Repeated Games | Jeongbin Kim (Caltech)
+3:35pm-5:20pm | The Effects of Time Preferences on Cooperation:<br>Experimental Evidence from Infinitely Repeated Games | Jeongbin Kim (Caltech)
 3:35pm-5:20pm | The Network Dilemma | Anujit Chakraborty <br>(University of California, Davis)
 6:00pm-8:00pm | Dinner (Walters)
 
@@ -54,7 +54,7 @@ Time   | Title | Presenter
 10:50am-11:00am | Coffee break 
 11:05am-12:20pm | The (In)Elasticity of Moral Ignorance | Marta Serra-Garcia (UCSD)
 11:05am-12:20pm | How Do People Choose Between<br>Biased Information Sources:<br>Evidence from a Laboratory Experiment | Gary Charness (UCSB)
-11:05am-12:20pm | An Experimental Study of Common Knowledge and Coordination<br>on Social Networks| Gizem Korkmaz <br>(University of Virginia)
+11:05am-12:20pm | An Experimental Study of Common Knowledge<br>and Coordination on Social Networks| Gizem Korkmaz <br>(University of Virginia)
 
 <br>
 

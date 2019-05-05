@@ -46,17 +46,14 @@ Time   | Title | Presenter
 
 Time   | Title | Presenter
 -------|-------|-----------
-8:30am-9:00am | Breakfast
-9:05am-10:50am | Suboptimal Credit Card Repayments: A Lab Experiment | Hakan Ozyilmaz (UCSB)
-9:05am-10:50am | Agglomeration and the Extent of the Market:<br>An Experimental Investigation<br>into Spatially Coordinated Exchange | Jordan Adamson<br>(Chapman University)
-3:45pm-5:15pm | Expectations and Stock Market Participation:<br>Theory and Evidence | Michael Shin (UCI)
-9:05am-10:50am | Decision weights based on visual saliency | Devdeepta Bose<br>(Caltech)
-10:50am-11:00am | Coffee break 
-11:05am-12:20pm | The (In)Elasticity of Moral Ignorance | Marta Serra-Garcia<br>(UCSD)
-11:05am-12:20pm | How Do People Choose Between<br>Biased Information Sources:<br>Evidence from a Lab Experiment | Gary Charness (UCSB)
-11:05am-12:20pm | An Experimental Study of Common Knowledge<br>and Coordination on Social Networks| Gizem Korkmaz (UVA)
-
-<br>
+8:30am-8:55am | Breakfast
+9:00am-10:30am | Agglomeration and the Extent of the Market:<br>An Experimental Investigation<br>into Spatially Coordinated Exchange | Jordan Adamson<br>(Chapman University)
+9:00am-10:30am | Expectations and Stock Market Participation:<br>Theory and Evidence | Michael Shin (UCI)
+9:00am-10:30am | Decision weights based on visual saliency | Devdeepta Bose<br>(Caltech)
+10:30am-10:40am | Coffee break 
+10:45am-12:15pm | The (In)Elasticity of Moral Ignorance | Marta Serra-Garcia<br>(UCSD)
+10:45am-12:15pm | How Do People Choose Between<br>Biased Information Sources:<br>Evidence from a Lab Experiment | Gary Charness (UCSB)
+10:45am-12:15pm | An Experimental Study of Common Knowledge<br>and Coordination on Social Networks| Gizem Korkmaz (UVA)
 
 ## Lodging
 
@@ -71,8 +68,6 @@ Street parking is available along N College Ave, N Dartmouth Ave, 10th Street, a
 Please click a link to the Google map for Claremont Graduate University. <a href="https://www.google.com/maps/place/Claremont+Graduate+University/@34.1040414,-117.7139694,15z/data=!4m5!3m4!1s0x0:0xd4790d89cfc64f12!8m2!3d34.1040414!4d-117.7139694" target="_blank"> <b>HERE</b> </a>
 
 If you decide to Uber or Lyft to campus, we suggest you use this address: 1021 N Dartmouth Ave, Claremont, CA 91711
-
-<br>
 
 ## Organizers
 Dr. C. Monica Capra : monica.capra@cgu.edu

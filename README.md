@@ -29,7 +29,7 @@ Time   | Title | Presenter
 10:30am-10:40am | Coffee break 
 10:45am-12:45pm | Inequality as an Incentive | Jeffrey Butler <br> (UC Merced)
 10:45am-12:45pm | Guilt Moderation | Paul Cheung (UMD)
-10:45am-12:45pm | Using Behavioral Economics<br>to Curb Workplace Misbehaviors:<br>Evidence form <br>a Natural Field Experiment | Jeffrey Flory (CMC)
+10:45am-12:45pm | Using Behavioral Economics<br>to Curb Workplace Misbehaviors:<br>Evidence form a Natural Field Experiment | Jeffrey Flory (CMC)
 10:45am-12:45pm | Suboptimal Credit Card Repayments: A Lab Experiment | Hakan Ozyilmaz (UCSB)
 12:45pm-1:55pm | Lunch @ Druker
 2:00pm-3:30pm | On the Persistence of Level - K Model | Wanqun Zhao (UCSD)

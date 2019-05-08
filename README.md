@@ -33,7 +33,7 @@ Time   | Title | Presenter
 10:45am-12:45pm | Suboptimal Credit Card Repayments: A Lab Experiment | Hakan Ozyilmaz (UCSB)
 12:45pm-1:55pm | Lunch @ Druker
 2:00pm-3:30pm | On the Persistence of Level - K Model | Wanqun Zhao (UCSD)
-2:00pm-3:30pm | Using visual salience in empirical game theory | Xiaomin Li (Caltech)
+2:00am-3:30am | Decision weights based on visual saliency | Devdeepta Bose<br>(Caltech)
 2:00pm-3:30pm | Using Response Times to Measure Ability <br>on a Cognitive Task | Aleksandr Alekseev <br>(Chapman University)
 3:30pm-3:40pm | Coffee Break 
 3:45pm-5:15pm | Multi-market Contacts and Collusive Behavior:<br>An Exploration in the Laboratory | Emanual Vespa (UCSB)
@@ -49,7 +49,7 @@ Time   | Title | Presenter
 8:30am-8:55am | Breakfast
 9:00am-10:30am | Agglomeration and the Extent of the Market:<br>An Experimental Investigation into Spatially Coordinated <br>Exchange | Jordan Adamson<br>(Chapman University)
 9:00am-10:30am | Expectations and Stock Market Participation:<br>Theory and Evidence | Michael Shin (UCI)
-9:00am-10:30am | Decision weights based on visual saliency | Devdeepta Bose<br>(Caltech)
+9:00pm-10:30pm | Using visual salience in empirical game theory | Xiaomin Li (Caltech)
 10:30am-10:40am | Coffee break 
 10:45am-12:15pm | The (In)Elasticity of Moral Ignorance | Marta Serra-Garcia<br>(UCSD)
 10:45am-12:15pm | How Do People Choose Between<br>Biased Information Sources:<br>Evidence from a Lab Experiment | Gary Charness (UCSB)

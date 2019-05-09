@@ -26,7 +26,7 @@ Time   | Title | Presenter
 9:00am-10:30am | Steps of reasoning in children and adolescents | Juan D. Carrillo (USC)
 9:00am-10:30am | Sour Grapes in the Lab and Field: <br>A Test of Access-Based Beliefs | Vinayak Alladi (UCSD)
 9:00am-10:30am | Mediated Talk: An Experiment | Andreas Blume (UA) 
-10:30am-10:40am | Coffee break 
+10:30am-10:40am | Coffee Break 
 10:45am-12:45pm | Inequality as an Incentive | Jeffrey Butler <br> (UC Merced)
 10:45am-12:45pm | Guilt Moderation | Paul Cheung (UMD)
 10:45am-12:45pm | Using Behavioral Economics<br>to Curb Workplace Misbehaviors:<br>Evidence form a Natural Field Experiment | Jeffrey Flory (CMC)
@@ -50,7 +50,7 @@ Time   | Title | Presenter
 9:00am-10:30am | Agglomeration and the Extent of the Market:<br>An Experimental Investigation into Spatially Coordinated <br>Exchange | Jordan Adamson<br>(Chapman University)
 9:00am-10:30am | Expectations and Stock Market Participation:<br>Theory and Evidence | Michael Shin (UCI)
 9:00pm-10:30pm | Using visual salience in empirical game theory | Xiaomin Li (Caltech)
-10:30am-10:40am | Coffee break 
+10:30am-10:40am | Coffee Break 
 10:45am-12:15pm | The (In)Elasticity of Moral Ignorance | Marta Serra-Garcia<br>(UCSD)
 10:45am-12:15pm | How Do People Choose Between<br>Biased Information Sources:<br>Evidence from a Lab Experiment | Gary Charness (UCSB)
 10:45am-12:15pm | An Experimental Study of Common Knowledge<br>and Coordination on Social Networks| Gizem Korkmaz (UVA)

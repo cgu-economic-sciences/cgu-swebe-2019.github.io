@@ -35,7 +35,7 @@ Time   | Title | Presenter
 10:45am-12:45pm | Suboptimal Credit Card Repayments: A Lab Experiment | Hakan Ozyilmaz (UCSB)
 12:45pm-1:55pm | Lunch @ Druker
 2:00pm-3:30pm | On the Persistence of Level - K Model | Wanqun Zhao (UCSD)
-2:00am-3:30am | Decision weights based on visual saliency | Devdeepta Bose<br>(Caltech)
+2:00am-3:30pm | Decision weights based on visual saliency | Devdeepta Bose<br>(Caltech)
 2:00pm-3:30pm | The Costs of Babysitting a Robot | Aleksandr Alekseev <br>(Chapman University)
 3:30pm-3:40pm | Coffee Break 
 3:45pm-5:15pm | Multi-market Contacts and Collusive Behavior:<br>An Exploration in the Laboratory | Emanual Vespa (UCSB)

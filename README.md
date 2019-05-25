@@ -6,7 +6,7 @@ Claremont Graduate University will hold the 4th Annual Southwest Experimental an
 
 SWEBE is an annual workshop in Southern California with the mission of promoting the disseminating cutting-edge research in behavioral economics in the Southwest. 
 
-The workshop will be held in Burkle 14 in Burkle Family Building at Claremont Graduate University.
+The workshop will be held in Burkle 16 in Burkle Family Building at Claremont Graduate University.
 
 Please click a link to the Google map for the Burkle Family Building.<a href="https://www.google.com/maps/place/Burkle+Family+Building/@34.1040087,-117.7136782,15z/data=!4m5!3m4!1s0x0:0x804fc4432dccf6f6!8m2!3d34.1040087!4d-117.7136782" target="_blank"> <b>HERE</b></a>
 
